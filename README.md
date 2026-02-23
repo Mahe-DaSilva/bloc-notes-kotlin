@@ -43,3 +43,7 @@ Le projet n'est composé que du dossier ***src*** contenant le fichier ***Main.k
 Ce programme a été créé dans le cadre d'un hackathon sur la plateforme ***Devpost***, avec pour objectif de proposer une mini application une interface en ligne de commande la plus intuitive et facile d'utilisation possible.
 La version finale présentée est en anglais et est disponible sur mon GitHub avec pour nom ***kotlin-notepad-cli***, il contient un ***README*** plus complet avec des captures d'écran si le projet vous intéresse.
 
+---
+
+### Auteur
+Projet développé en autodidacte par Mahé Da Silva, élève en classe de terminale spécialité mathématiques et NSI
